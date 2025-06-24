@@ -28,6 +28,11 @@ I'm a theoretical chemist from University of Milan. I got my Ph.D. under Riccard
 
 ## A small resumé
 
+### *2025--*: PostDoc in theoretical chemistry
+*Supervisor: [Sophya Garashchuk](https://sc.edu/study/colleges_schools/chemistry_and_biochemistry/our_people/directory/garashchuk_sophya.php), University of South Carolina*
+
+I am working with professor Sophya Garashchuk in developing theory and code for the quantum-trajectory adaptable Gaussian (QTAG) basis.
+
 ### *2020--2024*: PhD in theoretical chemistry 
 *At CeottoGroup (advisor: Riccardo Conte), Università degli Studi di Milano.*
 
