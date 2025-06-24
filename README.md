@@ -34,17 +34,17 @@ I'm a theoretical chemist from University of Milan. I got my Ph.D. under Riccard
 I am working with professor Sophya Garashchuk in developing theory and code for the quantum-trajectory adaptable Gaussian (QTAG) basis.
 
 ### *2020--2024*: PhD in theoretical chemistry 
-*At CeottoGroup (advisor: Riccardo Conte), Università degli Studi di Milano.*
+*At [CeottoGroup](https://sites.unimi.it/ceotto/about\_GiacomoBotti.html) (advisor: Riccardo Conte), Università degli Studi di Milano.*
 
 I applied semiclassical dynamics to the simulation of vibrational spectra of biomolecular systems. Scholarship financed by Istituto Nazionale di Previdenza Sociale (INPS)
 
 ### *2017--2019* MSc in theoretical chemistry 
-*At CeottoGroup (advisor: Riccardo Conte), Università degli Studi di Milano.* 
+*At [CeottoGroup](https://sites.unimi.it/ceotto/about\_GiacomoBotti.html) (advisor: Riccardo Conte), Università degli Studi di Milano.* 
 
 I tested semiclassical vibrational spectroscopy accuracy by fitting a set potential energy surfaces for formaldehyde and running semiclassical dynamics on them
 
 ### *2014--2017* BSc in theoretical chemistry 
-*At CeottoGroup (advisor: Riccardo Conte), Università degli Studi di Milano.* 
+*At [CeottoGroup](https://sites.unimi.it/ceotto/about\_GiacomoBotti.html) (advisor: Riccardo Conte), Università degli Studi di Milano.* 
 
 I helped developing the Hessian Database approach for semiclassical dynamics
 
