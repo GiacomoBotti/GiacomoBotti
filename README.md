@@ -6,15 +6,19 @@ I'm a theoretical chemist from University of Milan. I got my Ph.D. under Riccard
 
 ## Experiencies
 - Fortran90 $>$ Bash $\gg$ Python $\gg$ C
+- Maple
 - $\LaTeX$, Markdown
 - Beamer, TikZ, Inkscape
 - Pgfplots $>$ Xmgrace $\gg$ Matplotlib 
 - Ab initio calculations
 - Pymol, Vmd
 
-## Learning
+## Learning 
+- [ ] Quantum Dynamics
+- [ ] Even more Fortran
 - [ ] Even more $\LaTeX$
 - [ ] More python
+- [ ] Maple
 - [ ] GitHub
 - [ ] Manim
 
