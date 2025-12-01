@@ -2,7 +2,7 @@
 
 # About me
 
-I'm a theoretical chemist from University of Milan. I got my Ph.D. under Riccardo Conte and Michele Ceotto by applying semiclassical vibrational spectroscopy to biomolecular systems
+I'm a theoretical chemistry post-doc at the University of South Carolina, working on new methods to perform quantum dynamics. I got my Ph.D. under Riccardo Conte and Michele Ceotto by applying semiclassical vibrational spectroscopy to biomolecular systems
 
 ## Experiencies
 - Fortran90 $>$ Bash $\gg$ Python $\gg$ C
