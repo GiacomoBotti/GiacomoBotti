@@ -5,7 +5,7 @@
 I'm a theoretical chemistry post-doc at the University of South Carolina, working on new methods to perform quantum dynamics. I got my Ph.D. under Riccardo Conte and Michele Ceotto by applying semiclassical vibrational spectroscopy to biomolecular systems
 
 ## Experiencies
-- Fortran90 $>$ Bash $\gg$ Python $\gg$ C
+- Fortran90 $>$ Python $\gg$ Bash $\gg$ C
 - Maple
 - $\LaTeX$, Markdown
 - Beamer, TikZ, Inkscape
@@ -17,7 +17,7 @@ I'm a theoretical chemistry post-doc at the University of South Carolina, workin
 - [ ] Quantum Dynamics
 - [ ] Even more Fortran
 - [ ] Even more $\LaTeX$
-- [ ] More python
+- [ ] More Python
 - [ ] Maple
 - [ ] GitHub
 - [ ] Manim
